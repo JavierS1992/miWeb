@@ -1,6 +1,6 @@
-#Titulo
+# Titulo
 
-##Titulo menor
+## Titulo menor
 
 Esta sirve como documentacion
 
